@@ -1,4 +1,4 @@
-![image]([https://github.com/MocuAcqu/MocuAcqu/blob/main/helloTina.gif](https://github.com/MocuAcqu/MocuAcqu/blob/main/helloTina.gif))
+![image](https://github.com/MocuAcqu/MocuAcqu/blob/main/helloTina.gif)
 
 ## Hi there 👋
 
