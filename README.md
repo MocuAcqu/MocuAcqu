@@ -1,6 +1,6 @@
 ![image](https://github.com/MocuAcqu/MocuAcqu/blob/main/helloTina.gif)
 
-## Hi there 👋
+## Hi there 👋 I am Tina!
 
 <!--
 **MocuAcqu/MocuAcqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
