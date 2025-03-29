@@ -1,7 +1,4 @@
-<div align=center>
-  <img scr="https://github.com/MocuAcqu/MocuAcqu/blob/main/hello_Tina.gif">
-</div>
-
+![image](https://github.com/MocuAcqu/MocuAcqu/blob/main/hello_Tina.gif)
 
 ## Hi there 👋 I am Tina!
 
