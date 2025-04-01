@@ -2,6 +2,17 @@
 
 # Hi there 👋 I am Tina!
 
+I am a sophomore student at National Taiwan Normal University, majoring in Technology Application and Human Resource Development. I enjoy creating websites, UI design, and data analysis. For example, I once developed a visually appealing lottery website that connected to a database for real-time draws.  
+
+If you're interested in learning more about me, feel free to contact me using the information below or visit my personal website.  
+
+❤️ Passionate about coding  
+
+🥳 Experienced in UI design with Figma  
+
+🌟 Proficient in Python, HTML, CSS, and JavaScript  
+
+#
 <!--
 **MocuAcqu/MocuAcqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
