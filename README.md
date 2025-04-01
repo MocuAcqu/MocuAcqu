@@ -12,8 +12,8 @@ If you're interested in learning more about me, feel free to contact me using th
 
 🌟 Proficient in Python, HTML, CSS, and JavaScript  
 
-# 🤝 聯絡我
-如果你有任何問題或建議，隨時可以聯絡我！💬
+# 🤝 Contact Me
+If you have any questions or suggestions, feel free to reach out to me! 💬
 
 - GitHub: [MocuAcqu](https://github.com/MocuAcqu)
 - Email: [a0901422997@gmail.com](mailto:a0901422997@gmail.com) 
