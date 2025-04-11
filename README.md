@@ -6,6 +6,8 @@ I am a sophomore student at National Taiwan Normal University, majoring in Techn
 
 If you're interested in learning more about me, feel free to contact me using the information below or visit my personal website.  
 
+You also can watch this: [https://github.com/MocuAcqu/MocuProject](https://github.com/MocuAcqu/MocuProject)
+
 ❤️ Passionate about coding  
 
 🥳 Experienced in UI design with Figma  
