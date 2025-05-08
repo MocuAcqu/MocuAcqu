@@ -12,7 +12,7 @@ You also can watch this: [https://github.com/MocuAcqu/MocuProject](https://githu
 
 🥳 Experienced in UI design with Figma  
 
-🌟 Proficient in Python, HTML, CSS, and JavaScript  
+🌟 Interested in Python, HTML, CSS, and JavaScript  
 
 # 🤝 Contact Me
 If you have any questions or suggestions, feel free to reach out to me! 💬
